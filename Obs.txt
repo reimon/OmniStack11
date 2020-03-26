@@ -20,3 +20,8 @@ npm install express
   * Listar casos específicos da ONG
   * Listar todos os casos 
   * Entrar em contato com a ONG
+
+  #Criando tabelas 
+  npx knex migrate:make create_ongs
+  npx knex migrate:latest
+  
