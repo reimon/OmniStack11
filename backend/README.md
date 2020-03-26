@@ -16,9 +16,11 @@
 ### Comandos:
 
 - npm install nodemon -D
+  -
   /**_/
   "scripts": {
   "start": "nodemon index.js"
   },
   /_**/
+  -
 - npm start
