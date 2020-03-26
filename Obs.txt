@@ -5,3 +5,18 @@ dentro da pasta
 npm init -y 
 npm install express 
 
+# Entidades e funcionalidades do sistema
+
+## Entidades
+  * ONG
+  * Caso(incident)
+
+## funcionalidades
+  * Login de ONG
+  * Logout de ONG
+  * Cadastro de ONG
+  * Cadastrar casos da ONG
+  * Desativar/Deletar casos da ONG
+  * Listar casos específicos da ONG
+  * Listar todos os casos 
+  * Entrar em contato com a ONG
