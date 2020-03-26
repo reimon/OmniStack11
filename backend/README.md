@@ -12,3 +12,11 @@
 - Query Params: Parâmetros nomeados enviandos na rota após "?" (Filtros, paginação)
 - Route Params: Parâmentos utilizados para identificar recursos
 - Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
+
+### Comandos:
+
+npm install nodemon -D
+"scripts": {
+"start": "nodemon index.js"
+},
+npm start
