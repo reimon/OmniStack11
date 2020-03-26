@@ -25,3 +25,5 @@ npm install express
   npx knex migrate:make create_ongs
   npx knex migrate:latest
   
+  # rollback
+  npx knex migrate:rollback
